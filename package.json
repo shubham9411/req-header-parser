@@ -1,0 +1,25 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "API for parsing the request headers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham9411/req-header-parser.git"
+  },
+  "keywords": [
+    "header",
+    "parsing",
+    "free-code-camp"
+  ],
+  "author": "Shubham Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham9411/req-header-parser/issues"
+  },
+  "homepage": "https://github.com/shubham9411/req-header-parser#readme",
+  "dependencies": {}
+}
